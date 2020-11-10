@@ -65,28 +65,26 @@ p.sentence2 {
   font-size:30px;
 }
 .function {
-   width: 1650px;
    height: 500px;
    background: #C0C0C0;
-   padding-right: 15px;
 }
 .function-images {
-    height: 450px;
-    margin: auto;
-    width: 1100px
+}
+.container{
+margin: auto;
+width: 500px;
+display: block;
 }
 .function-image {
-  float: left;
-  padding: 70px;
+  padding: 35px;
+  display: inline-block;
 }
 /* ここまでがfunction部分の実装 */
 footer {
   background-color: #232B42;
   height: 90px;
   padding-top: 5px;
-  padding-right: 15px;
   color: white;
-  width: 1650px;
 /* footer部分の実装 */
 }
 /* ここに書かれているcssの記述はあくまでヒントとして用意された雛形なので、書かれている記述に従わずに実装したいという場合は、自分の好きに実装して構わない。課題要件を満たし、コードの品質が一定の水準にあると判定されればどのような実装でも合格になる。 */
