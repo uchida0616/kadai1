@@ -51,6 +51,7 @@ header li a {
 /* main画像（白い「Achieve」の文字の画像）部分の実装 */
 }
 .about {
+  margin-top: 25px;
 /* About Achieve部分の実装 */
 }
 p.sentence1 {
