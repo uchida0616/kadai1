@@ -69,7 +69,10 @@ p.sentence2 {
    height: 500px;
    background: #C0C0C0;
 }
-.function-images {}
+.function-images {
+  width: 100%;
+  margin: auto;
+}
 .container{
 margin: auto;
 width: 100%;
